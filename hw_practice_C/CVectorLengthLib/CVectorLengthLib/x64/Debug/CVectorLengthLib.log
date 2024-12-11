@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\KatSdk\source\repos\CVectorLengthLib\Source.cpp(7,7): warning C4273: vector_length: несовместимое связывание dll
+  (компиляция исходного файла "/Source.cpp")
+      C:\Users\KatSdk\source\repos\CVectorLengthLib\Header.h(9,22):
+      см. предыдущее определение "vector_length"
+  
+  CVectorLengthLib.vcxproj -> C:\Users\KatSdk\source\repos\CVectorLengthLib\x64\Debug\CVectorLengthLib.dll
