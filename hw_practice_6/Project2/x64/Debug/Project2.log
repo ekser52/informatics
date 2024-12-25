@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\artem\source\repos\Project2\main.cpp(27,69): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\artem\source\repos\Project2\main.cpp(27,69): warning C4244:         with
+C:\Users\artem\source\repos\Project2\main.cpp(27,69): warning C4244:         [
+C:\Users\artem\source\repos\Project2\main.cpp(27,69): warning C4244:             T=float
+C:\Users\artem\source\repos\Project2\main.cpp(27,69): warning C4244:         ]
+C:\Users\artem\source\repos\Project2\main.cpp(27,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\artem\source\repos\Project2\main.cpp(27,55): warning C4244:         with
+C:\Users\artem\source\repos\Project2\main.cpp(27,55): warning C4244:         [
+C:\Users\artem\source\repos\Project2\main.cpp(27,55): warning C4244:             T=float
+C:\Users\artem\source\repos\Project2\main.cpp(27,55): warning C4244:         ]
+C:\Users\artem\source\repos\Project2\main.cpp(28,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\source\repos\Project2\main.cpp(28,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project2.vcxproj -> C:\Users\artem\source\repos\Project2\x64\Debug\Project2.exe
