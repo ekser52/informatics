@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF970BE9-7A44-49B0-9CE9-C52BE2C45003}|HwPractice4.vcxproj|C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF970BE9-7A44-49B0-9CE9-C52BE2C45003}|HwPractice4.vcxproj|solutionrelative:code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF970BE9-7A44-49B0-9CE9-C52BE2C45003}|HwPractice4.vcxproj|C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF970BE9-7A44-49B0-9CE9-C52BE2C45003}|HwPractice4.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code.cpp",
+              "DocumentMoniker": "C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\code.cpp",
+              "RelativeDocumentMoniker": "code.cpp",
+              "ToolTip": "C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\code.cpp",
+              "RelativeToolTip": "code.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T17:14:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\KatSdk\\source\\repos\\informatics\\hw_practice_4\\HwPractice4\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T17:12:19.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
